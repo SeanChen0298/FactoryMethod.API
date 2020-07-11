@@ -1,0 +1,16 @@
+E:\PersonalProjects\ASP.NET C# Projects\FactoryMethod.API\FactoryMethod.API\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+E:\PersonalProjects\ASP.NET C# Projects\FactoryMethod.API\FactoryMethod.API\bin\Debug\netcoreapp2.1\FactoryMethod.API.deps.json
+E:\PersonalProjects\ASP.NET C# Projects\FactoryMethod.API\FactoryMethod.API\bin\Debug\netcoreapp2.1\FactoryMethod.API.runtimeconfig.json
+E:\PersonalProjects\ASP.NET C# Projects\FactoryMethod.API\FactoryMethod.API\bin\Debug\netcoreapp2.1\FactoryMethod.API.runtimeconfig.dev.json
+E:\PersonalProjects\ASP.NET C# Projects\FactoryMethod.API\FactoryMethod.API\bin\Debug\netcoreapp2.1\FactoryMethod.API.dll
+E:\PersonalProjects\ASP.NET C# Projects\FactoryMethod.API\FactoryMethod.API\bin\Debug\netcoreapp2.1\FactoryMethod.API.pdb
+E:\PersonalProjects\ASP.NET C# Projects\FactoryMethod.API\FactoryMethod.API\obj\Debug\netcoreapp2.1\FactoryMethod.API.csprojAssemblyReference.cache
+E:\PersonalProjects\ASP.NET C# Projects\FactoryMethod.API\FactoryMethod.API\obj\Debug\netcoreapp2.1\FactoryMethod.API.AssemblyInfoInputs.cache
+E:\PersonalProjects\ASP.NET C# Projects\FactoryMethod.API\FactoryMethod.API\obj\Debug\netcoreapp2.1\FactoryMethod.API.AssemblyInfo.cs
+E:\PersonalProjects\ASP.NET C# Projects\FactoryMethod.API\FactoryMethod.API\obj\Debug\netcoreapp2.1\FactoryMethod.API.csproj.CoreCompileInputs.cache
+E:\PersonalProjects\ASP.NET C# Projects\FactoryMethod.API\FactoryMethod.API\obj\Debug\netcoreapp2.1\FactoryMethod.API.RazorAssemblyInfo.cache
+E:\PersonalProjects\ASP.NET C# Projects\FactoryMethod.API\FactoryMethod.API\obj\Debug\netcoreapp2.1\FactoryMethod.API.RazorAssemblyInfo.cs
+E:\PersonalProjects\ASP.NET C# Projects\FactoryMethod.API\FactoryMethod.API\obj\Debug\netcoreapp2.1\FactoryMethod.API.RazorTargetAssemblyInfo.cache
+E:\PersonalProjects\ASP.NET C# Projects\FactoryMethod.API\FactoryMethod.API\obj\Debug\netcoreapp2.1\FactoryMethod.API.dll
+E:\PersonalProjects\ASP.NET C# Projects\FactoryMethod.API\FactoryMethod.API\obj\Debug\netcoreapp2.1\FactoryMethod.API.pdb
+E:\PersonalProjects\ASP.NET C# Projects\FactoryMethod.API\FactoryMethod.API\obj\Debug\netcoreapp2.1\FactoryMethod.API.genruntimeconfig.cache
